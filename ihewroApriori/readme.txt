@@ -1,1 +1,0 @@
-本项目实现了apriori算法，测试数据来自clementine的内置数据集
