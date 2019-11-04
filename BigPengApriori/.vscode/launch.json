@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Aprori",
+            "request": "launch",
+            "mainClass": "aprori.Aprori"
+        }
+    ]
+}
